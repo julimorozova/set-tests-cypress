@@ -1,3 +1,7 @@
+
+// Get
+// grt one or more DOM elements by selector or alias
+
 describe("GET", () => {
 
     it("By ID", () => {
