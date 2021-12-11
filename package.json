@@ -1,0 +1,23 @@
+{
+  "name": "set-tests-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julimorozova/set-tests-cypress.git"
+  },
+  "keywords": [],
+  "author": "Julia Morozova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julimorozova/set-tests-cypress/issues"
+  },
+  "homepage": "https://github.com/julimorozova/set-tests-cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
